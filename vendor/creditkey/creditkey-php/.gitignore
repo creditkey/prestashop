@@ -1,0 +1,5 @@
+/vendor/
+composer.phar
+.vscode/
+.DS_Store
+package-lock.json
